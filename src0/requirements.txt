@@ -1,0 +1,7 @@
+pillow
+sys
+heapq
+itertools
+
+optimasi ADA - KNAPSACK
+searching AI - GREEDY BEST FIRST SECRH

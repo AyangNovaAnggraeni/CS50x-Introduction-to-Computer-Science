@@ -1,0 +1,14 @@
+sort1 uses: bubble sort
+
+How do you know?: because it takes quicker on sorted data, since the omega(n) for bubble sort so it will
+quicker in sorted data comparing to selection sort and merge sort
+
+sort2 uses: merge sort
+
+How do you know?: because it takes quciker on random data, since the omega(n log n) and O(n log n) for merge sort,
+so merge sort takes quicker to sort random data
+
+sort3 uses: selection sort
+
+How do you know?: because it takes longer in every data (random, reversed,  and sorted) since the selecting sort has O(n^2)
+and omega(n^2), it shows that selection sort takes much more running time than bubble sort and merge sort
